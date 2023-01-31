@@ -26,7 +26,7 @@
 
 - 📫 How to reach me ...
   - Anywhere from the world.
-  - Twitter, Instagram, Facebook, and of course via Email is always welcome.
+  - Twitter, Instagram(Private), Facebook, and of course via Email is always welcome.
   - Offline is less recommended.
 
 <!---
