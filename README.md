@@ -6,7 +6,7 @@
 - 👀 Love doing ---
   - Static web page.
   - Interactive web page.
-  - IoT based on RasberryPy.
+  - IoT based on RasberryPi.
   - JDM from 1990.
   - Vehicle with loud and smell of gas.
   - Japanese / English / French.
